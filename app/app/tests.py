@@ -6,9 +6,6 @@ class CalcTests(TestCase):
         "Check That sum should be Same"
         self.assertEqual(sum(4,5), 9)
 
-    def test_2_invalid_sum(self):
-        "We enter values and check results not same"
-        self.assertEqual(sum(3,4), 10)
 
     def test_3_valid_sum(self):
         "We enter values and check results not same"
