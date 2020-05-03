@@ -1,5 +1,2 @@
-
-
-def sum(x,y):
-    return x+y;
-    
+def adding_sum(x, y):
+    return x+y
